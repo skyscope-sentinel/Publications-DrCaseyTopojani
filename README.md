@@ -1,4 +1,6 @@
-# Publications-DrCaseyTopojani
+# Publications - Dr Casey J Topojani
+** ORCID: 0009-0004-8505-2420 **
+       ** https://orcid.org/0009-0004-8505-2420 **
 
 Welcome to the official research repository for Dr. Casey Jay Topojani and the Skyscope Sentinel Framework. This repository serves as a centralized hub for peer-reviewed manuscripts, technical whitepapers, and experimental datasets regarding 4D topological energy manifolds and atmospheric energy transduction.
 
