@@ -1,6 +1,7 @@
 # Publications - Dr Casey J Topojani
-** ORCID: 0009-0004-8505-2420 **
-       ** https://orcid.org/0009-0004-8505-2420 **
+ORCID: 0009-0004-8505-2420 
+
+``https://orcid.org/0009-0004-8505-2420``
 
 Welcome to the official research repository for Dr. Casey Jay Topojani and the Skyscope Sentinel Framework. This repository serves as a centralized hub for peer-reviewed manuscripts, technical whitepapers, and experimental datasets regarding 4D topological energy manifolds and atmospheric energy transduction.
 
@@ -33,21 +34,7 @@ We present a novel paradigm for energy harvesting utilizing 4D synthetic topolog
 | Temporal Quality ($Q_t$) | 20 | Fast Fourier Transform Analysis |
 | Voltage Stability | 240V AC ($\pm 0.02$) | Global Logic-Grade Standard |
 
-## 📂 Repository Structure
-
-```
-├── Manuscripts/
-│   ├── 2026_Skyscope_Sentinel_MkIV.pdf      # Lead research paper
-│   └── 2025_Homopolar_Dynamics_Topojani.pdf # Theoretical foundation
-├── Data/
-│   ├── HDF5_Logs_1.27TB/                    # Full 147-day experimental dataset
-│   └── Spectral_Analysis_6.8Hz.csv          # FFT frequency data
-├── Figures/
-│   ├── Transduction_Manifold_Diagram.png
-│   └── Fibonacci_Antenna_Array.svg
-└── README.md
-```
 
 ## 🤝 Collaborations & Acknowledgments
 
-This work has been developed under the Sentinel-Vortex Research Group (Mk IV Division). Special thanks to the researchers at Stanford University—specifically the Feldman Lab—whose work on Magnetic Hofstadter cascades and twisted trilayer graphene (TTG) provides the microscopic validation for our macroscopic manifolds.
+This work has been developed under the Sentinel-Vortex Research Group (Mk IV Division) - Skyscope Sentinel Intelligence. Special thanks to the brilliant researchers at Stanford University—specifically the Feldman Lab — whose remarkable work on Magnetic Hofstadter cascades and twisted trilayer graphene (TTG) provides the microscopic validation for our macroscopic manifolds. 
